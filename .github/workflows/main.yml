@@ -59,4 +59,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: Nicktsim/taski_backend:latest 
+          tags: nicktsim/taski_backend:latest 
